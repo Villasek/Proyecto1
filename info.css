@@ -1,0 +1,19 @@
+#info {
+    color: black;
+    text-align: center;
+}
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-origen{
+    margin: 30px;
+}
+.info-origen img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border:2px solid #000;
+}
